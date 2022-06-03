@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dawid\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dawid\\.nuget\\packages",
+      "M:\\Aplikacje\\Visual Strudio Code\\vs_shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
